@@ -5,8 +5,13 @@
 
 -개발환경
 사용Tool: 이클립스LUNA
-언어: JAVA, Servlet, JSP, CSS, JavaScript, jQuery, Ajax, HTML,
+
+
+언어: JAVA, Servlet, JSP, CSS, JavaScript, jQuery, Ajax, HTML
+
 WAS: Apache Tomcat 8.0
+
+
 DATABASE: Mysql5.5, DB Connection Pool
 
 상품페이지 담당
